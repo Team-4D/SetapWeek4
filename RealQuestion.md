@@ -7,4 +7,6 @@
 
 ## How much time does it take you get get information out to your socity?
 
+## what societies are you apart of?
 
+## what do type of posts do the societies make on social media?
