@@ -13,5 +13,5 @@
 
 ## How lonng do societies take to reply to a query you may have about them? 
 
-## what is your favourite social media app do you use for societies and why?
+## what is your favourite social media app that you use for societies and why?
 
