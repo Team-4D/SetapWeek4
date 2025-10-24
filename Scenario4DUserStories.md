@@ -16,5 +16,9 @@ notificatoins of a mix of headlines throught the day
 
 ## Q: What makes your current method of access of news or information convenient for you
 
-A: I see it on socia media and it is saved in my history so my browser recommends it to me
+A: I see it on social media and it is saved in my history so my browser recommends it to me
+
+## Q: Would you be interested in gettng news via audio 
+
+A: Yeah that sounds like it would save me time!
 
