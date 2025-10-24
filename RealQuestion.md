@@ -10,3 +10,7 @@
 ## what societies are you apart of?
 
 ## what do type of posts do the societies make on social media?
+
+## How lonng do societies take to reply to a query you may have about them? 
+
+
