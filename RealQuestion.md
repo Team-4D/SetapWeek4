@@ -23,3 +23,11 @@
 
 ## Q: How many societies were you interested in, and how many have you actually gone to? + why did you miss their events?
 
+## Q: What's your best way to interact with a society's event? Do you prefer seeing the details first, chatting to someone before deciding or being able to reserve a spot through an app?
+
+## Q: If you were to share an event with friends, what would be the easiest way for you to do that eg. communication through text, sharing posts etc.?
+
+## Q: If you’re deciding whether to attend an event, would you prefer a feature that lets you see who else is attending, or do you prefer to keep it more private and decide solo? Why?
+
+## Q: If you attended an event of a society in the past, what do you think the society could have done thrto make you feel more excited about going? How can ypur suggestions be implemented? 
+
